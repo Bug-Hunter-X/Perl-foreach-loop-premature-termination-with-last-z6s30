@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an uncommon error related to the foreach loop and the last statement. The script iterates through an array of numbers, but the loop terminates prematurely due to the use of last. The solution provides a corrected version that prints all numbers in the array.
