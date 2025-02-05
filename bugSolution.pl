@@ -1,0 +1,1 @@
+my @array = (1 .. 10); foreach my $i (@array) { print "$i "; }
